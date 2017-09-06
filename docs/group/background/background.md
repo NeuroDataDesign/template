@@ -6,4 +6,6 @@ In this file, you should organize the background material each of you are readin
 
 ### Subgraphing
 
-[Vogelstein et al. SSG]()
+Article  |  reviewer  |  summary
+--- | --- | ---
+[Vogelstein et al. SSG](https://arxiv.org/abs/1108.1427) | eric  | [summary](https://neurodatadesign.github.io/template/ebridge2/week_0903/example_paper.html)
