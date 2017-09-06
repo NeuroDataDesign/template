@@ -6,4 +6,4 @@ In this file, you should organize the background material each of you are readin
 
 ### Subgraphing
 
-[Vogelstein et al. SSG]()
+[Vogelstein et al. SSG](https://neurodatadesign.github.io/template/ebridge2/week_0903/example_paper.html)
