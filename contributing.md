@@ -18,7 +18,7 @@ The directory structure will be as follows:
 |   |   +-- Pipeline/
 |   |   |   +-- language1/
 |   |   |   |   + ...
-|   |   |-- Project2/  # maybe  a visualization pipeline?
+|   |   +-- Project2/  # maybe  a visualization pipeline?
 +--docs/
 |    +--ebridge2/
 |    |   +--project1/
@@ -38,10 +38,19 @@ The directory structure will be as follows:
 |    +--reveal/  # or any framework dependencies
 |    |  +--  # reveal repo copied from reveal.js
 |    +-- group/
-|    |  + weeekly-slides/
-|    |  |   + week_0306/
-|    |  |       + weekly_slides.html
-|    |  |   + ...
+|    |  +-- weeekly-slides/
+|    |  |   +-- week_0306/
+|    |  |       +-- weekly_slides.html
+|    |  |   +-- ...
+|    |  +-- background/
+|    |  |   +-- background.md
+|    |  +-- cvs/
+|    |  |   +-- ebridge2_cv.pdf
+|    |  |   +-- member2_cv.pdf
+|    |  |   +-- ...
+|    |  +-- proposal/
+|    |  |   +-- proposal_slides.pdf/html/...
+|    |  |   +-- statement_of_work.md
 +--License.md
 ```
 
