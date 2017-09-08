@@ -29,6 +29,9 @@ NeuroData has its own deployment of the BOSS.
     1. Downloading/uploading data including annotations
     1. Uploading should be done in chunks of 16 z at a time to avoid write locks
     1. Annotation uploads should be limited to < 2000
+1. [Direct Boss API](http://boss.readthedocs.io/) - RESTful interfaces for interacting with data
+    1. Suggested only if you encounter problems with Intern or need to use a language other than Python
+    1. Useful for spot-checks of data, e.g., request a 500x500 image from the larger volume.
 1. [Ingest large vol](https://github.com/neurodata-dev/ingest_large_vol) - Command line program for _image_ ingest of TIFF files
 1. [ndwebtools](https://neurodata.io/tools/ndwebtools/) - tools that could be useful specifically in regard to data on the BOSS
     1. TIFF image cutouts for imaging data
@@ -40,14 +43,15 @@ NeuroData has its own deployment of the BOSS.
 
 ## Gotchas
 
-1. Downsampling may not work
+1. Downsampling may not work, leading to slow visualization and download of large datasets.
 1. Everything should be supercube (512x512x16) aligned for best outcome
 1. Annotation uploads should be done with care (< 2000) supported
+1. The Boss has many quirks.  Talk to us if (when?) you encounter errors
 
 ## Contact info
 
 ben  
-Slack: @benfalk
+NeuroData Slack: @benfalk
 
 eric  
-Slack: @perlman
+NeuroData Slack: @perlman
