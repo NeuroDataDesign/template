@@ -1,10 +1,10 @@
-This is an example of what you would have in your issue by Wednesday after class for feedback. The examples here are a continuation from the Monday example.
+This is an example of what you would have in your issue by Session 2 (usually Wednesday) after class for feedback. The examples here are a continuation from the Monday examples. Eric/Jovo will go through these and provide feedback by Thursday. 
 
 Ex1: Estimation of parameters for SBM
 
 Goal: Assume fMRI and DWI data can be effectively modelled by an SBM where community 1 are the ipsilateral connections, and community 2 are the contra-lateral connections. Determine the probability of a difference in connectivity between the ipsi-lateral connections and contra-lateral connections.
 
-Basic Simulation: simulate 2 communities of data representing the ipsi-lateral connections with probability p and contra-lateral connections, with probability q. Varying p-q, determine the power of a t-test.
+Basic Simulation: simulate 2 communities of data representing the simulated ipsi-lateral connections with probability p and contra-lateral connections, with probability q. Varying p-q, determine the power of a t-test. Show one line per number of observations, n, of each connection type. 
 
 Application to real data: estimate the parameters of SBM for diffusion and functional connectomes. Compare the p-value for the diffusion and functional connectomes.
 
