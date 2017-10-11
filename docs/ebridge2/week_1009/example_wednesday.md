@@ -1,4 +1,4 @@
-This is an example of what you would have in your issue by Session 2 (usually Wednesday) after class for feedback. The examples here are a continuation from the Monday examples. Eric/Jovo will go through these and provide feedback by Thursday. 
+This is an example of what you would have in your issue by Session 2 (usually Wednesday) BEFORE class for feedback. The examples here are a continuation from the Monday examples. Eric/Jovo will go through these and provide feedback by Thursday. 
 
 # Estimation of parameters for SBM
 
